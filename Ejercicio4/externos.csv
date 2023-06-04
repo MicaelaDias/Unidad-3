@@ -1,0 +1,5 @@
+dni;nombre;direccion;telefono;FechaInicio;FechaFin;Tarea;MontoViatico;Costo;MontoSeguro
+41234324;Mariela Celeste;Gral. Mariano Acha 209N;2646731231;4/10/2020;15/6/2023;Carpinteria;10000;600000;15000
+40234532;Carlos Euliarte;Av. España 1300S;2645123452;15/3/2020;2/6/2023;Electricidad;15000;600000;20000
+39094213;Darío Fernández;Paula Albarracín de Sarmiento 122N;2644123453;5/2/2020;3/6/2023;Plomeria;9000;80000;15000
+42345323;Elena Garay;Pedro Echagüe 109O;2644567834;4/9/2020;20/12/2022;Carpinteria;11000;50000;10000
